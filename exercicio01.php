@@ -1,6 +1,6 @@
 # F.U.P. que o usuário entre com um valor em dinheiro e o programa exiba quantas notas de: 
 # R$100,00; R$50,00; R$20,00; R$10,00; R$5,00; R$2,00; R$1,00 
-# são necessárias para compor o valor digitado.
+# são necessárias para compor o valor digitado
 
 
 <!DOCTYPE html>

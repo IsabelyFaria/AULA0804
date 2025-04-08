@@ -8,7 +8,7 @@
 <body>
 
 <fieldset>
-        <legend>Exercicio 1</legend>
+        <legend>Exercicio 1 - Notas e Dinheiro</legend>
             
             <form method="post" action="calcular.php">
                 Informe o valor em dinheiro: <br/>
@@ -18,6 +18,6 @@
                 <input type="submit" name="info" value="Enviar" />
             </form>
     </fieldset>
-    
+
 </body>
 </html>

@@ -11,4 +11,5 @@ while ($numeroUsuario > 0) {
 
 echo "O processo foi executado $contador vezes até o valor ser igual ou menor que zero.\n";
 
+
 ?>
